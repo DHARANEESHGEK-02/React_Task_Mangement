@@ -2,7 +2,7 @@
 ### ⚡ Modern • Animated • Production-Ready React Application  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge" />
+  <img src="/home/intellect/My_task/Screenshot from 2026-02-28 20-24-37.png" />
   <img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge" />
@@ -11,6 +11,44 @@
 <p align="center">
   <b>A powerful and beautifully animated task management system built with React.</b><br/>
   Designed with smooth transitions, priority tracking, due date reminders, dark mode, and animated progress tracking.
+</p>
+
+---
+
+# 📸 Screenshots
+
+## 🖥 1️⃣ Main Page
+
+<p align="center">
+  <!-- Replace the link below with your screenshot -->
+  <img src="images/main-page.png" width="900" alt="Main Page Screenshot"/>
+</p>
+
+---
+
+## ➕ 2️⃣ Add Task Feature
+
+<p align="center">
+  <!-- Replace the link below with your screenshot -->
+  <img src="images/add-task.png" width="900" alt="Add Task Screenshot"/>
+</p>
+
+---
+
+## 🎯 3️⃣ Task Priority / Level Complexity
+
+<p align="center">
+  <!-- Replace the link below with your screenshot -->
+  <img src="images/task-priority.png" width="900" alt="Task Priority Screenshot"/>
+</p>
+
+---
+
+## 🗑 4️⃣ Remove Task Feature
+
+<p align="center">
+  <!-- Replace the link below with your screenshot -->
+  <img src="images/remove-task.png" width="900" alt="Remove Task Screenshot"/>
 </p>
 
 ---
