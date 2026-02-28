@@ -2,8 +2,8 @@
 ### ⚡ Modern • Animated • Production-Ready React Application  
 
 <p align="center">
- <img width="1484" height="828" alt="Screenshot from 2026-02-28 20-24-37" src="https://github.com/user-attachments/assets/9d87d82c-c291-45a0-8b8a-7f86b81a75a9" />
-
+ 
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge" />
@@ -22,7 +22,9 @@
 
 <p align="center">
   <!-- Replace the link below with your screenshot -->
-  <img src="images/main-page.png" width="900" alt="Main Page Screenshot"/>
+ <img width="1484" height="828" alt="Screenshot from 2026-02-28 20-24-37" src="https://github.com/user-attachments/assets/c6acef2b-2b82-464c-b8f7-b115e8b8b1f0" />
+
+
 </p>
 
 ---
@@ -31,7 +33,8 @@
 
 <p align="center">
   <!-- Replace the link below with your screenshot -->
-  <img src="images/add-task.png" width="900" alt="Add Task Screenshot"/>
+  <img width="1484" height="828" alt="Screenshot from 2026-02-28 20-25-35" src="https://github.com/user-attachments/assets/3fa530e4-55b3-4547-b590-68c2479fac95" />
+
 </p>
 
 ---
@@ -40,7 +43,9 @@
 
 <p align="center">
   <!-- Replace the link below with your screenshot -->
-  <img src="images/task-priority.png" width="900" alt="Task Priority Screenshot"/>
+  <img width="1484" height="828" alt="Screenshot from 2026-02-28 20-26-11" src="https://github.com/user-attachments/assets/3669e3cc-028a-4631-b435-07638266cfcf" />
+  <h4> After Adding the task the complexity circle reduces</h4>
+
 </p>
 
 ---
@@ -49,7 +54,8 @@
 
 <p align="center">
   <!-- Replace the link below with your screenshot -->
-  <img src="images/remove-task.png" width="900" alt="Remove Task Screenshot"/>
+  <img width="1484" height="828" alt="Screenshot from 2026-02-28 20-26-38" src="https://github.com/user-attachments/assets/924a9b84-abea-4215-9519-4aafe1433c7d" />
+
 </p>
 
 ---
