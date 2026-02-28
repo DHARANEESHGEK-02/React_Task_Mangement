@@ -1,16 +1,197 @@
-# React + Vite
+# 🚀 Advanced Task Manager  
+### ⚡ Modern • Animated • Production-Ready React Application  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <b>A powerful and beautifully animated task management system built with React.</b><br/>
+  Designed with smooth transitions, priority tracking, due date reminders, dark mode, and animated progress tracking.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Why This Project Is Special
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This is not a basic CRUD app.
 
-## Expanding the ESLint configuration
+It demonstrates:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✔ Advanced state management  
+- ✔ Custom hooks  
+- ✔ Framer Motion animations  
+- ✔ Browser Notification API  
+- ✔ Clean component architecture  
+- ✔ Production-ready UI  
+- ✔ Persistent storage  
+- ✔ Dark mode system  
+- ✔ Scalable folder structure  
+
+---
+
+# 🎬 Features
+
+## 🔥 Core Features
+
+- ➕ Add tasks with due date & priority  
+- ✅ Mark tasks as complete  
+- ✏ Edit tasks  
+- 🗑 Delete tasks  
+- 🧹 Clear completed tasks  
+
+---
+
+## 🎨 UI & UX Features
+
+- 🌙 Dark mode toggle  
+- 🎞 Smooth enter & exit animations  
+- 💫 Hover effects  
+- 📊 Animated progress circle  
+- 🎯 Priority color indicators  
+- 🧠 Intelligent filtering (All / Pending / Completed)  
+
+---
+
+## ⏰ Smart Features
+
+- 🔔 Browser notification when task is due  
+- 💾 LocalStorage persistence  
+- ⚡ Instant UI updates  
+- 📅 Due date tracking  
+
+---
+
+# 📊 Progress System
+
+```js
+Completion % = (Completed Tasks / Total Tasks) * 100
+```
+
+---
+
+# 📂 Project Structure
+
+```
+src/
+ ├── components/
+ │    ├── TaskForm.jsx
+ │    ├── TaskList.jsx
+ │    ├── TaskItem.jsx
+ │    ├── TaskStats.jsx
+ │    ├── ProgressCircle.jsx
+ │    └── FilterButtons.jsx
+ │
+ ├── hooks/
+ │    └── useLocalStorage.js
+ │
+ ├── utils/
+ │    └── taskHelpers.js
+ │
+ ├── App.jsx
+ └── App.css
+```
+
+---
+
+# 🚀 Installation Guide
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/DHARANEESHGEK-02/Task_Management_React.git
+```
+
+### 2️⃣ Navigate to Project
+```bash
+cd Task_Management_React
+```
+
+### 3️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 4️⃣ Run Development Server
+```bash
+npm run dev
+```
+
+Open in browser:
+
+```
+http://localhost:5173
+```
+
+---
+
+# 🌍 Deployment
+
+Build project:
+
+```bash
+npm run build
+```
+
+Deploy to:
+
+- 🔥 Vercel  
+- 🌐 Netlify  
+- 📦 GitHub Pages  
+
+---
+
+# 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- Advanced React Hooks usage  
+- Component communication  
+- Clean scalable architecture  
+- UI animation engineering  
+- Browser API integration  
+- Performance optimization  
+- Real-world feature implementation  
+
+---
+
+# 🧠 Future Improvements
+
+- 🔥 Drag & Drop reordering  
+- 🔐 Authentication system  
+- ☁ Backend integration  
+- 📱 Mobile app version  
+- 📊 Analytics dashboard  
+
+---
+
+# 👨‍💻 About The Developer
+
+**Dharaneesh**  
+Frontend Developer | React Enthusiast  
+
+Passionate about building scalable and visually stunning web applications.
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 📢 Share it  
+
+---
+
+# 📜 License
+
+MIT License — Free to use and modify.
+
+---
+
+<p align="center">
+  © 2026 Dharaneesh. All rights reserved.
+</p>
