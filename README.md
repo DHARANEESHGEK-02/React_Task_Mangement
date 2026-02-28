@@ -2,7 +2,8 @@
 ### ⚡ Modern • Animated • Production-Ready React Application  
 
 <p align="center">
-  <img src="/home/intellect/My_task/Screenshot from 2026-02-28 20-24-37.png" />
+ <img width="1484" height="828" alt="Screenshot from 2026-02-28 20-24-37" src="https://github.com/user-attachments/assets/9d87d82c-c291-45a0-8b8a-7f86b81a75a9" />
+
   <img src="https://img.shields.io/badge/Framer-Motion-black?logo=framer&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge" />
